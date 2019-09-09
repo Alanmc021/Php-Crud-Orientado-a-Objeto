@@ -1,4 +1,7 @@
-Material desenvolvido na vídeo aula.
 
-Link da vídeo aula:
+Simple registration system via PHP OO + Mysql
+
+Tutorial
 http://youtu.be/Y-0OQto_reA
+
+I love PHP :) 
